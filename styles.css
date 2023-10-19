@@ -11,3 +11,93 @@
 .custom-navbar .navbar-nav .nav-link {
   font-size: 1.3rem; /* Ajuste o tamanho da fonte dos itens de navegação conforme necessário */
 }
+
+/*  style tabela    */
+
+body {
+  background-color: #191919;
+}
+
+table {
+  background-color: #191919;
+
+  border-radius: 25px !important;
+}
+.table {
+  border-radius: 10px !important;
+}
+
+th,
+td {
+  border-radius: 10px !important;
+}
+
+.table-bordered thead th {
+  border-width: 1px; /* Altere o valor conforme necessário */
+  border-color: rgb(53, 53, 53);
+  border-radius: 10px !important;
+}
+
+.table-bordered {
+  border-width: 1px; /* Altere o valor conforme necessário */
+  color: white;
+  border-radius: 10px !important;
+}
+
+.table-bordered th,
+.table-bordered td {
+  border-color: rgb(53, 53, 53);
+  border-width: 1px; /* Grossura da borda interna */
+  border-radius: 10px !important;
+}
+
+/* .text-center {
+  text-align: center; 
+} */
+
+.cellStyle {
+  padding-left: 20;
+}
+
+.aed {
+  cursor: pointer;
+
+  text-align: left;
+  background-color: #111d13; /* Cor de fundo */
+  color: #fff; /* Cor do texto */
+  border-radius: 8px; /* Bordas arredondadas */
+  padding: 5px; /* Espaçamento interno */
+  height: 80px;
+  text-shadow: 1px 2px 8px #000000;
+}
+.poo {
+  cursor: pointer;
+  text-align: left;
+  background-color: #415d43; /* Cor de fundo */
+  color: #fff; /* Cor do texto */
+  border-radius: 5px; /* Bordas arredondadas */
+  padding: 5px; /* Espaçamento interno */
+  height: 80px;
+  text-shadow: 1px 2px 8px #000000;
+}
+.calc {
+  cursor: pointer;
+
+  text-align: left;
+  background-color: #709775; /* Cor de fundo */
+  color: #fff; /* Cor do texto */
+  border-radius: 8px; /* Bordas arredondadas */
+  padding: 5px; /* Espaçamento interno */
+  height: 80px;
+  text-shadow: 1px 2px 8px #000000;
+}
+.ps {
+  cursor: pointer;
+  text-align: left;
+  background-color: #8fb996; /* Cor de fundo */
+  color: #fff; /* Cor do texto */
+  border-radius: 8px; /* Bordas arredondadas */
+  padding: 5px; /* Espaçamento interno */
+  height: 80px;
+  text-shadow: 1px 2px 8px #000000;
+}
