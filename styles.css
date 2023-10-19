@@ -1,12 +1,12 @@
 .custom-navbar {
-  min-height: 80px; /* Altere para a altura desejada */
-  background-color: #3498db; /* Altere para a cor desejada */
+  min-height: 100px; /* Altere para a altura desejada */
+  background-color: #191919; /* Altere para a cor desejada */
 }
 
 .custom-navbar .navbar-brand {
-  font-size: 1.5rem; /* Ajuste o tamanho da fonte da marca conforme necessário */
+  font-size: 1.6rem; /* Ajuste o tamanho da fonte da marca conforme necessário */
 }
 
 .custom-navbar .navbar-nav .nav-link {
-  font-size: 1.2rem; /* Ajuste o tamanho da fonte dos itens de navegação conforme necessário */
+  font-size: 1.3rem; /* Ajuste o tamanho da fonte dos itens de navegação conforme necessário */
 }
