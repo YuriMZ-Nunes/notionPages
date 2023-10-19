@@ -54,7 +54,7 @@
               class="clickable"
               data-toggle="tooltip"
               data-placement="top"
-              onclick="javascript:location.href='https://www.notion.so/C-lculo-2-a2d8412d84b14b7fabf47a346812e10e';"
+              onclick="navigation(calc)"
               rowspan="2"
             >
               <div class="calc">
@@ -236,6 +236,14 @@
       $(document).ready(function () {
         $('[data-toggle="tooltip"]').tooltip();
       });
+
+      function navigation(id) {
+        if (id == "calc")
+          window.open(
+            "https://www.notion.so/C-lculo-2-a2d8412d84b14b7fabf47a346812e10e",
+            _blank
+          );
+      }
     </script>
   </body>
 </html>
