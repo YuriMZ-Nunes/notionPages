@@ -1,6 +1,7 @@
 .custom-navbar {
   min-height: 100px; /* Altere para a altura desejada */
-  background-color: #191919; /* Altere para a cor desejada */
+  background-color: #191919;
+  /* Altere para a cor desejada */
 }
 
 .custom-navbar .navbar-brand {
