@@ -16,6 +16,7 @@
 
 body {
   background-color: #191919;
+  margin-left: 0;
 }
 
 table {
@@ -100,4 +101,8 @@ td {
   padding: 5px; /* Espaçamento interno */
   height: 80px;
   text-shadow: 1px 2px 8px #000000;
+}
+
+.teste {
+  margin-left: 0; /* Define a margem esquerda como 0 para alinhar à esquerda */
 }
